@@ -11,3 +11,4 @@ Utilities/: Esta carpeta contiene los archivos relacionados con la configuració
 puntajes.json: Almacena la lista de puntajes de los jugadores en formato JSON.
 Beginner.json, Medium.json, Aadvanced.json: Archivos de configuración para los niveles del juego. Estos archivos contienen información sobre Cuanto aumenta de tamaño la serpiente,la velocidad de la serpiente, el tiempo de reaparición de las frutas y la cantidad de obstáculos con su tiempo de aparicion.
 Nota: Los "huecos" son los obstaculos con los que la serpiente se estrella, pero con mas personalidad :).
+JDK 17
