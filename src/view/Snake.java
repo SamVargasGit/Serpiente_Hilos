@@ -145,7 +145,7 @@ public class Snake extends JFrame implements Runnable, KeyListener,MenuListener 
             colfruta = (int) (Math.random() * 50);
             filfruta = (int) (Math.random() * 50);
             crecimiento = crecimientoSerpiente;
-            incrementarPuntuacion(10);
+            incrementarPuntuacion(100);
             return true;
         } else {
             return false;
